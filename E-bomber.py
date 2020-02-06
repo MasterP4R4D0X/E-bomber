@@ -1,6 +1,5 @@
 #!/usr/bin/python
 #E-bomber
-#This code for education purpose only.
 #Use it at your own risk !!!
 
 
